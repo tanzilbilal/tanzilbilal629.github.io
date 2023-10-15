@@ -44,6 +44,14 @@ body {
             text-align: center;
             padding: 20px;
         }
+body {
+    background-image: url('https://promwad.com/sites/default/files/web-development_0.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    
+}
+
        
 
         .container {
