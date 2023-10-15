@@ -39,12 +39,7 @@ body {
             text-align: center;
             padding: 20px;
         }
-        .box{
-          background-image:https://promwad.com/sites/default/files/web-development_0.jpg;
-          height:100vh;
-          background-position:center;
-          background-size:cover;
-        }
+       
 
         .container {
             max-width: 800px;
